@@ -240,6 +240,7 @@ a:hover {
 }
 .row {
   margin-left: -20px;
+  padding:0 10px;
   *zoom: 1;
 }
 .row:before,
@@ -260,7 +261,7 @@ a:hover {
 .navbar-static-top .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 940px;
+  width: 960px;
 }
 .span12 {
   width: 940px;
