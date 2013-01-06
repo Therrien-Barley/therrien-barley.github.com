@@ -133,6 +133,11 @@ h3.project-title{
   float:left
 }
 
+#fixed-header-right{
+  position: absolute;
+  right:0;
+}
+
 #fixed-header-right .nav-button{
   margin-right:54px;
   float:right;
