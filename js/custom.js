@@ -1,11 +1,14 @@
 jQuery(document).ready(function() {
 
 
-	$('#fixed-header-left').affix();
-	$('#fixed-header-right').affix();
-	$('#fixed-logo-container').affix();
+	if(window.innerWidth >= 768){
 
-	$('#fixed-footer').affix();
+		$('#fixed-header-left').affix();
+		$('#fixed-header-right').affix();
+		$('#fixed-logo-container').affix();
+
+		$('#fixed-footer').affix();
+	}
 
 	
 
