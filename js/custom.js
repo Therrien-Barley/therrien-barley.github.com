@@ -6,8 +6,8 @@ jQuery(document).ready(function() {
 			$('#fixed-logo-container').removeClass('affix');
 			$('#fixed-footer').removeClass('affix');
 		}else{
-			$('#fixed-logo-container').addClass('affix');
-			$('#fixed-footer').addClass('affix');
+			$('#fixed-logo-container').addClass('affix').attr('data-spy','affix');
+			$('#fixed-footer').addClass('affix').attr('data-spy','affix');
 		}
 	}
 
