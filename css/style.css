@@ -74,6 +74,23 @@ h3.section-heading{
   margin:0 auto;
 }
 
+.navbar a{
+  height:35px;
+  width:130px;
+  margin-left:55px;
+  background-color:#00007d;
+  color:blue;
+  line-height: 35px;
+}
+
+.navbar-inner{
+  margin-top: 40px;
+}
+
+.navbar .btn:first-child{
+  margin-left:0;
+}
+
 
 @media (max-width: 767px) {
   #wrapper{
