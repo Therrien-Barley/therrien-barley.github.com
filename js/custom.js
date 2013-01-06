@@ -1,6 +1,17 @@
 jQuery(document).ready(function() {
 
 
+	function affixOnResize(){
+		if(window.innerWidth < 768){
+			$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
+			$('#fixed-footer').removeClass('affix').removeAttr('data-spy');
+		}
+	}
+
+	affixOnResize();
+
+
+	$('body').resize(affixOnResize);
 
 	
 
