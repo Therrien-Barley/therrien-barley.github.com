@@ -50,7 +50,7 @@ h3{
 }
 
 
-@media (max-width: 768px) {
+@media (max-width: 767px) {
   #wrapper{
     width:90%;
   }
@@ -58,7 +58,7 @@ h3{
 
 @media (min-width: 768px) and (max-width: 979px) {
   #wrapper{
-    width:764px;
+    width:760px;
   }
 }
 
