@@ -10,6 +10,8 @@ jQuery(document).ready(function() {
 		var wh = window.innerHeight;
 		var m = (wh-jh)/2;
 
+		console.log('jh: '+ jh + ' wh: '+ wh+ 'm: '+ m);
+
 		$('.jumbotron').css('marginTop', m).css('marginBottom', m);
 	}
 
