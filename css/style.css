@@ -157,7 +157,8 @@ h3.project-title{
 
 
 @media (max-width: 767px) {
-  .wrapper{
+  .wrapper,
+  #fixed-footer{
     width:90%;
   }
   .section{
@@ -172,13 +173,15 @@ h3.project-title{
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-  .wrapper{
+  .wrapper,
+  #fixed-footer{
     width:740px;
   }
 }
 
 @media (min-width: 1200px) {
-  .wrapper{
+  .wrapper,
+  #fixed-footer{
     width:1139px;
   }
 }
