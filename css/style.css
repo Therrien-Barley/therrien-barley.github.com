@@ -240,8 +240,9 @@ h3.section-heading{
     width:250px;
   }
   #logo img{
-    width:100%;
+    width:170px;
     height:auto;
+    margin-top:7px;
   }
 }
 
