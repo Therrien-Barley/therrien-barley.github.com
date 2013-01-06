@@ -5,6 +5,8 @@ jQuery(document).ready(function() {
 	$('#fixed-header-right').affix();
 	$('#fixed-logo-container').affix();
 
+	$('#fixed-footer').affix();
+
 	
 
 

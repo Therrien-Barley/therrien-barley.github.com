@@ -140,6 +140,10 @@ h3.project-title{
   margin:35px auto 0;
 }
 
+#fixed-footer{
+  bottom:40px;
+}
+
 
 @media (max-width: 767px) {
   .wrapper,
