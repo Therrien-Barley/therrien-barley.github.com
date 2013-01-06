@@ -40,6 +40,22 @@ h3{
   max-height: 
 }
 
+
 #wrapper{
   width:960px;
+  margin:0 auto;
 }
+
+
+@media (max-width: 979px) {
+  #wrapper{
+    width:90%;
+  }
+}
+
+
+
+
+
+
+
