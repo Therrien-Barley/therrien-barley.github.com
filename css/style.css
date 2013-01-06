@@ -13,6 +13,7 @@ h3{
   font-size:18px;
   line-height: 23px;
   margin-bottom:20px;
+  text-align: center;
 }
 
 .section-heading{
@@ -22,4 +23,8 @@ h3{
   line-height:33px;
 
   margin-bottom:40px;
+}
+
+.projects-project a:hover{
+  text-decoration: none !important;
 }
