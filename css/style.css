@@ -99,8 +99,22 @@ h3.project-title{
   width:315px;
 }
 
-.nav-button-group:first-child{
+#fixed-header-left .nav-button{
+  margin-left:54px;
+  float:left
+}
+
+#fixed-header-right .nav-button{
+  margin-right:54px;
+  float:right;
+}
+
+#fixed-header-left .nav-button:first-child{
   margin-left:0 !important;
+}
+
+#fixed-header-left .nav-button:first-child{
+  margin-right:0 !important;
 }
 
 .underlay{
