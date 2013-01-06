@@ -1,22 +1,6 @@
 jQuery(document).ready(function() {
 
 
-	function affixOnResize(){
-		if(window.innerWidth >= 768){
-			$('#fixed-header-left').affix();
-			$('#fixed-header-right').affix();
-			$('#fixed-logo-container').affix();
-			$('#fixed-footer').affix();
-		}else{
-			$('#fixed-header-left').removeClass('affix').removeClass('affix-top');
-			$('#fixed-header-right').removeClass('affix').removeClass('affix-top');
-			$('#fixed-logo-container').removeClass('affix').removeClass('affix-top');
-			$('#fixed-footer').removeClass('affix').removeClass('affix-top');
-		}
-
-	}
-
-	
 
 	
 
