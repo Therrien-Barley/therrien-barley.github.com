@@ -201,7 +201,7 @@ h3.project-title{
     display:none !important;
   }
   .jumbotron{
-    margin-bottom:50px;
+    margin-bottom:0;
   }
 }
 
