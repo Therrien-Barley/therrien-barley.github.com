@@ -1,9 +1,9 @@
 jQuery(document).ready(function() {
 
 
-	$('#fixed-header-left').affix();
-	$('#fixed-header-right').affix();
-	$('#fixed-logo-container').affix();
+	//$('#fixed-header-left').affix();
+	//$('#fixed-header-right').affix();
+	//$('#fixed-logo-container').affix();
 
 	
 
