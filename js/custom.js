@@ -3,25 +3,15 @@ jQuery(document).ready(function() {
 
 	function affixOnResize(){
 		if(window.innerWidth < 768){
-			$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
-			$('#fixed-footer').removeClass('affix').removeAttr('data-spy');
+			$('#fixed-logo-container').removeClass('affix');
+			$('#fixed-footer').removeClass('affix');
 		}else{
-			$('#fixed-logo-container').attr('data-spy', 'affix');
-			$('#fixed-footer').attr('data-spy', 'affix');
-
-			$('[data-spy="affix"]').each(function () {
-			  $(this).affix('refresh')
-			});
+			$('#fixed-logo-container').addClass('affix');
+			$('#fixed-footer').addClass('affix');
 		}
 	}
 
-	//only remove affix attributes if loading in a phone, otherwise only 
-	//mess with these attributes on a resize
-	if(window.innerWidth < 768){
-		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
-		$('#fixed-footer').removeClass('affix').removeAttr('data-spy');
-	}
-
+	affixOnResize();
 	$('body').resize(affixOnResize);
 
 	
