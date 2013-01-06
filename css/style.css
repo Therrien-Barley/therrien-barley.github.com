@@ -217,6 +217,9 @@ h3.section-heading{
     border:none !important;
     text-decoration: none !important;
   }
+  .contact .contact-profile:first-child{
+    margin-bottom:60px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
