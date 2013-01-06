@@ -100,6 +100,11 @@ h3.project-title{
   width:315px;
 }
 
+.navbar .nav-button:hover{
+  background-color:white;
+  text-decoration: none !important;
+}
+
 #fixed-header-left .nav-button{
   margin-left:54px;
   float:left
