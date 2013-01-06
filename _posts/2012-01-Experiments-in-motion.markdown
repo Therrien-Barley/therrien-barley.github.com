@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Experiments in Motion
-category: Coding
-tags: jekyll bootstrap github disqus
+category: Curating
+tags: tag1 tag2 tag3
 year: 2012
 month: 3
 day: 8
