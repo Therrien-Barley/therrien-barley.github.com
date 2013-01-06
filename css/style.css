@@ -232,7 +232,10 @@ h3.project-title{
 }
 
 
-
+#fixed-footer.affix-top{
+  position:fixed;
+  bottom:15px;
+}
 
 
 
