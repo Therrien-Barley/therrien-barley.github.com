@@ -6,6 +6,10 @@
   color:white;
 }
 
+.footer .social-link{
+  margin-right:10px;
+}
+
 .footer a{
   color:blue;
   text-decoration: none !important;
