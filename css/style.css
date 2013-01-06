@@ -75,8 +75,11 @@ h3.section-heading{
   margin:0 auto;
 }
 
+.navbar .inner{
+  margin-top: 40px;
+}
 
-.navbar .navbar-button{
+.navbar .nav-button{
   height:35px;
   width:130px;
   display: inline-block;
@@ -86,11 +89,7 @@ h3.section-heading{
   line-height: 35px;
 }
 
-.navbar .inner{
-  margin-top: 40px;
-}
-
-.navbar .navbar-button:first-child{
+.navbar .nav-button:first-child{
   margin-left:0;
 }
 
