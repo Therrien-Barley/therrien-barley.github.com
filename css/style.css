@@ -142,6 +142,9 @@ h3.project-title{
 
 #fixed-footer{
   bottom:40px;
+}
+
+.footer{
   height:35px;
   color:blue;
   background-color: #00007d;
