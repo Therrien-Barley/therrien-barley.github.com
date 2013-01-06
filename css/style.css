@@ -193,9 +193,11 @@ h3.section-heading{
 
 
 @media (max-width: 767px) {
-  .wrapper,
-  #fixed-footer{
+  .wrapper{
     width:90%;
+  }
+  #fixed-footer{
+    width:100%;
   }
   h3.section-heading{
     width:100%;
