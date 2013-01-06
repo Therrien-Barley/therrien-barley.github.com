@@ -100,11 +100,6 @@ h3.project-title{
   width:315px;
 }
 
-.navbar .nav-button:hover{
-  background-color:white;
-  text-decoration: none !important;
-}
-
 #fixed-header-left .nav-button{
   margin-left:54px;
   float:left
@@ -122,6 +117,12 @@ h3.project-title{
 #fixed-header-right .nav-button:first-child{
   margin-right:0 !important;
 }
+
+.navbar .nav-button:hover{
+  background-color:white;
+  text-decoration: none !important;
+}
+
 
 .underlay{
   position:relative;
@@ -148,6 +149,12 @@ h3.project-title{
   }
   .section{
     margin-top:80px;
+  }
+  .navbar .nav-button{
+    width:110px;
+  }
+  .nav-button-group{
+    width:275px;
   }
 }
 
