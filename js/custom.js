@@ -1,4 +1,9 @@
 jQuery(document).ready(function() {
+
+
+	$('#fixed-header-left').affix();
+	
+
 	
 	$('#gf').text('GitHub Followers');
     $('#gfr').text('GitHub Repos');		
