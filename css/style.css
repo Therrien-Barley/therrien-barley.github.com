@@ -79,7 +79,7 @@ h3.section-heading{
 .navbar a{
   height:35px;
   width:130px;
-  display: block;
+  display: inline-block;
   margin-left:55px;
   background-color:#00007d;
   color:blue;
