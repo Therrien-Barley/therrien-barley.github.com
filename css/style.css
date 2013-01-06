@@ -78,6 +78,10 @@ h3.project-title{
   margin:0 auto;
 }
 
+#header-nav{
+  margin-top:40px;
+}
+
 .navbar .inner{
   margin-top: 40px;
 }
