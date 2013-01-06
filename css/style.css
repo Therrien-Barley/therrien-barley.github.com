@@ -20,6 +20,11 @@
   text-decoration: none !important;
 }
 
+.footer a [class^="icon-"], 
+.footer a [class*=" icon-"]{
+  margin-right:3px;
+}
+
 
 /* Jumbotron */
 .jumbotron{
