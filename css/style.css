@@ -99,6 +99,9 @@ h3.section-heading{
   .navbar .container{
     width:90%;
   }
+  h3.section-heading{
+    margin-top:80px;
+  }
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
