@@ -233,6 +233,9 @@ h3.section-heading{
   #fixed-header-left .nav-button{
     margin-left:20px;
   }
+  #fixed-header-right .nav-button{
+    margin-right:20px;
+  }
   .nav-button-group{
     width:250px;
   }
