@@ -12,6 +12,8 @@ jQuery(document).ready(function() {
 		var hh = $('#header-nav').height();
 		var m = (wh-hh-jh)/2;
 		$('.jumbotron').css('marginTop', m).css('marginBottom', m);
+
+		$('body').css('backgroundColor','');
 	}
 
 
