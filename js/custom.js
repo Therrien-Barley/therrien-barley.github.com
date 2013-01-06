@@ -14,11 +14,7 @@ jQuery(document).ready(function() {
 	affixOnResize();
 	$('body').resize(affixOnResize);
 
-	
-
-
-	//$('#header-nav').affix();
-	
+	/*
 	$('#gf').text('GitHub Followers');
     $('#gfr').text('GitHub Repos');		
 	
@@ -40,6 +36,7 @@ jQuery(document).ready(function() {
 		};
 	}	
 	
+	
 	$('#ghw').githubWidget({
 			'username': 'Erjjones',
 			'displayActions': false,
@@ -49,4 +46,5 @@ jQuery(document).ready(function() {
 			'displayAccountInformations': false,
 			'displayLanguage': false
 		});
+	*/
 });
