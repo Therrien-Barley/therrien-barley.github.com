@@ -27,19 +27,31 @@
 {% include navigation.html %}
 
 <div class="container">
-	<div class="marketing">
-		<div class="content">	  
-			<div class="row">			   				
-				<div class="span7 columns">						
-					{{ content }} 					
-				</div>	
-				<div class="span4 columns">					
-					 {% include aboutme.html %}							
-				</div>				
-			</div>						
-		</div>			
-	</div>		
-</div>
+	<div class="jumbotron">
+		<h1>Therrien–Barley is an architectural office.</h1>
+		<div class="row">
+			<div class="span10 offset1">
+				<p>We apply an architectural process - research, concept, design, construction - to a variety of situations.</p>
+				<p>We are a think-tank and a creative agency, sometimes designers and producers, often curators and always creative.</p>
+				<p>We work with a host of clients and collaborators, from brands, cultural institutions, universities, and firms to artists, architects, designers, writers, curators and agencies.</p>
+			</div><!-- /.span10 -->
+		</div><!-- /.row -->
+	</div><!-- /.jumbotron -->
+	
+
+	<div class="row projects">
+		<div class="span12"> 
+			{{ content }}
+		</div><!-- /.span12 -->
+	</div><!-- /.projects -->
+
+
+	<div class="span4 columns">
+		 {% include aboutme.html %}
+	</div>
+
+
+</div><!-- /.container -->
 
 {% include footer.html %}
 
