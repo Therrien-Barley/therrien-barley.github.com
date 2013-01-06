@@ -27,6 +27,15 @@ h3{
   margin-bottom:40px;
 }
 
+.projects-project{
+  height:420px;
+  overflow: hidden;
+}
+
 .projects-project a:hover{
   text-decoration: none !important;
+}
+
+.projects-project .project-mono-image{
+  max-height: 
 }
