@@ -77,6 +77,10 @@ h3.project-title{
   float:left;
 }
 
+.contact-profile .contact-profile-caption a{
+  margin-bottom:10px;
+}
+
 .contact-profile .contact-profile-bio{
   clear:both;
 }
