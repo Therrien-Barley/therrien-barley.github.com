@@ -207,7 +207,8 @@ h3.project-title{
     border-bottom:1px solid;
   }
   .standard a:hover{
-    border:none;
+    border:none !important;
+    text-decoration: none !important;
   }
 }
 
