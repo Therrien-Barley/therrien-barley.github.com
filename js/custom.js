@@ -2,7 +2,7 @@ jQuery(document).ready(function() {
 
 
 	$('#fixed-header-left').affix();
-	
+	$('#fixed-header-right').affix();
 
 	
 	$('#gf').text('GitHub Followers');
