@@ -199,11 +199,15 @@ h3.section-heading{
   #fixed-footer{
     width:100%;
   }
+  .footer{
+    height:auto;
+  }
   h3.section-heading{
     width:100%;
     margin-left:-2px;
   }
-  .section{
+  .section,
+  .footer{
     margin-top:100px;
   }
   .navbar{
