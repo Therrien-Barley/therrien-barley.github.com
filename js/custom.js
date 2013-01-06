@@ -5,11 +5,22 @@ jQuery(document).ready(function() {
 		if(window.innerWidth < 768){
 			$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
 			$('#fixed-footer').removeClass('affix').removeAttr('data-spy');
+		}else{
+			$('#fixed-logo-container').attr('data-spy', 'affix');
+			$('#fixed-footer').attr('data-spy', 'affix');
+
+			$('[data-spy="affix"]').each(function () {
+			  $(this).affix('refresh')
+			});
 		}
 	}
 
-	affixOnResize();
-
+	//only remove affix attributes if loading in a phone, otherwise only 
+	//mess with these attributes on a resize
+	if(window.innerWidth < 768){
+		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
+		$('#fixed-footer').removeClass('affix').removeAttr('data-spy');
+	}
 
 	$('body').resize(affixOnResize);
 
