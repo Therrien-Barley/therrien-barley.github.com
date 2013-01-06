@@ -3,7 +3,7 @@ jQuery(document).ready(function() {
 
 	$('#fixed-header-left').affix();
 	$('#fixed-header-right').affix();
-	$('#logo').affix();
+	$('#fixed-logo-container').affix();
 	
 	$('#gf').text('GitHub Followers');
     $('#gfr').text('GitHub Repos');		
