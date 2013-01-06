@@ -11,7 +11,10 @@ jQuery(document).ready(function() {
 		}
 	}
 
-	affixOnResize();
+	if(window.innerWidth < 768){
+		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
+		$('#fixed-footer').removeAttr('data-spy');
+	}
 	$('body').resize(affixOnResize);
 
 	/*
