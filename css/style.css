@@ -90,11 +90,11 @@ h3.project-title{
   line-height: 35px;
 }
 
-.navbar .nav-button-group{
+.nav-button-group{
   width:315px;
 }
 
-.navbar .nav-button-group:first-child{
+.nav-button-group:first-child{
   margin-left:0 !important;
 }
 
