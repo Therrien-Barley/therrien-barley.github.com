@@ -28,8 +28,11 @@ h3{
 }
 
 .projects-project{
-  height:420px;
   overflow: hidden;
+}
+
+.projects-project .project-summary{
+  height:100px;
 }
 
 .projects-project a:hover{
