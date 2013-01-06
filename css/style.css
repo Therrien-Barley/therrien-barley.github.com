@@ -91,7 +91,11 @@ h3.project-title{
   line-height: 35px;
 }
 
-.navbar .nav-button:first-child{
+.navbar .nav-button-group{
+
+}
+
+.navbar .nav-button-group:first-child{
   margin-left:0 !important;
 }
 
@@ -104,6 +108,13 @@ h3.project-title{
   position: relative;
   background-color: blue;
   margin-top:160px;
+}
+
+#logo{
+  position:fixed;
+  top:35px;
+  text-align: center;
+  margin-left:-10px;
 }
 
 
