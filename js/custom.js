@@ -1,6 +1,8 @@
 jQuery(document).ready(function() {
 
 	$('.jumbotron').append('<div>size: '+ window.innerWidth +'</div>');
+
+	/*
 	//initialize mobile phone
 	if(window.innerWidth <= 768){
 		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
