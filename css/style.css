@@ -12,6 +12,7 @@ h1{
 h3{
   font-size:18px;
   line-height: 23px;
+  margin-bottom:20px;
 }
 
 .section-heading{
@@ -19,4 +20,6 @@ h3{
   border:2px solid white;
   text-align: center;
   line-height:33px;
+
+  margin-bottom:40px;
 }
