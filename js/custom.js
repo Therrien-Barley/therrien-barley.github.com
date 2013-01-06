@@ -1,10 +1,21 @@
 jQuery(document).ready(function() {
 
-
+	//initialize mobile phone
 	if(window.innerWidth < 768){
 		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
 		$('#fixed-footer').removeAttr('data-spy');
+	}else{//initialize non-phone
+		//vertically center jumbotron
+		var jh = $('.jumbotron').height();
+		var wh = window.innerHeight;
+		var m = (wh-jh)/2;
+
+		$('.jumbotron').css('marginTop', m).css('marginBottom', m);
 	}
+
+
+
+
 	/*
 		
 	function affixOnResize(){
