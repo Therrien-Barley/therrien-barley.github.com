@@ -47,7 +47,6 @@ h3{
 }
 
 h3.section-heading{
-  width:100%;
   border:2px solid white;
   text-align: center;
   line-height:33px;
@@ -103,6 +102,10 @@ h3.project-title{
 #fixed-footer{
   width:960px;
   margin:0 auto;
+}
+
+h3.section-heading{
+  width:956px;
 }
 
 .navbar{
@@ -196,8 +199,12 @@ h3.project-title{
 
 @media (max-width: 767px) {
   .wrapper,
-  #fixed-footer{
+  #fixed-footer,
+  h3.section-heading{
     width:90%;
+  }
+  h3.section-heading{
+    margin-left:-2px;
   }
   .section{
     margin-top:80px;
@@ -221,6 +228,9 @@ h3.project-title{
   .wrapper,
   #fixed-footer{
     width:740px;
+  }
+  h3.section-heading{
+    width:736px;
   }
 }
 
