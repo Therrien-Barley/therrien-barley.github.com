@@ -1,7 +1,7 @@
 jQuery(document).ready(function() {
 
 	//initialize mobile phone
-	if(window.innerWidth < 768){
+	if(window.innerWidth <= 768){
 		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
 		$('#fixed-footer').removeAttr('data-spy');
 		$('body').css('backgroundColor','yellow');
