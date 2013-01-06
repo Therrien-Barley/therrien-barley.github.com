@@ -13,3 +13,9 @@ h3{
   font-size:18px;
   line-height: 23px;
 }
+
+.section-heading{
+  width:100%;
+  border:1px solid #00007d;
+  text-align: center;
+}
