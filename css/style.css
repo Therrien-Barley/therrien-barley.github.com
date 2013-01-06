@@ -71,8 +71,7 @@ h3.project-title{
 }
 
 
-.wrapper,
-#header-nav{
+.wrapper{
   width:960px;
   margin:0 auto;
 }
@@ -144,6 +143,11 @@ h3.project-title{
   bottom:15px;
 }
 
+#header-nav,
+#fixed-footer .container{
+  width:100%;
+}
+
 .footer{
   height:35px;
   color:blue;
@@ -153,9 +157,7 @@ h3.project-title{
 
 
 @media (max-width: 767px) {
-  .wrapper,
-  .navbar .container,
-  #header-nav{
+  .wrapper{
     width:90%;
   }
   .section{
@@ -170,17 +172,13 @@ h3.project-title{
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-  .wrapper,
-  .navbar .container,
-  #header-nav{
+  .wrapper{
     width:740px;
   }
 }
 
 @media (min-width: 1200px) {
-  .wrapper,
-  .navbar .container,
-  #header-nav{
+  .wrapper{
     width:1139px;
   }
 }
