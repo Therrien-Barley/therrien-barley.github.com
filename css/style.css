@@ -6,6 +6,16 @@
   color:white;
 }
 
+.footer a{
+  color:blue;
+  text-decoration: none !important;
+}
+
+.footer a:hover{
+  color:white;
+  text-decoration: none !important;
+}
+
 
 /* Jumbotron */
 .jumbotron{
