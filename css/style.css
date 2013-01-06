@@ -188,6 +188,9 @@ h3.section-heading{
   height:50px;
   text-align: center;
 }
+#fixed-logo-container{
+  margin:0 auto;
+}
 
 .buffer{
   width:100%;
@@ -196,7 +199,6 @@ h3.section-heading{
 }
 
 #logo{
-  margin:0 auto;
 }
 
 @media (max-width: 767px) {
