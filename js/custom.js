@@ -4,6 +4,7 @@ jQuery(document).ready(function() {
 	if(window.innerWidth < 768){
 		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
 		$('#fixed-footer').removeAttr('data-spy');
+		$('body').css('backgroundColor','yellow');
 	}else{//initialize non-phone
 		//vertically center jumbotron
 		var jh = $('.jumbotron').height();
