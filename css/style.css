@@ -194,7 +194,7 @@ h3.project-title{
     margin-top:80px;
   }
   .navbar{
-    display:none;
+    display:none !important;
   }
 }
 
