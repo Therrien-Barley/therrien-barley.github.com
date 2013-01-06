@@ -142,14 +142,6 @@ h3.section-heading{
   float:right;
 }
 
-#fixed-header-left .nav-button:first-child{
-  margin-left:0 !important;
-}
-
-#fixed-header-right .nav-button:first-child{
-  margin-right:0 !important;
-}
-
 .navbar .nav-button:hover{
   background-color:white;
   text-decoration: none !important;
@@ -235,6 +227,13 @@ h3.section-heading{
   h3.section-heading{
     width:736px;
   }
+  .navbar .nav-button{
+    width:115px;
+    margin-left:20px;
+  }
+  .nav-button-group{
+    width:250px;
+  }
 }
 
 @media (min-width: 1200px) {
@@ -251,11 +250,12 @@ h3.section-heading{
 }
 
 
-#fixed-footer.affix-top{
-  position:fixed;
-  bottom:15px;
+
+#fixed-header-left .nav-button:first-child{
+  margin-left:0 !important;
 }
 
-
-
+#fixed-header-right .nav-button:first-child{
+  margin-right:0 !important;
+}
 
