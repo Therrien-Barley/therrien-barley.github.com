@@ -42,6 +42,10 @@ h3.section-heading{
   float:left;
 }
 
+.contact-profile .contact-profile-bio{
+  clear:both;
+}
+
 .projects-project{
   overflow: hidden;
 }
