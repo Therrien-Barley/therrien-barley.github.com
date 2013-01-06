@@ -137,7 +137,7 @@ h3.project-title{
   width:100%;
 }
 
-#fixed-header-right .nav-button-group{
+.fix-right{
   position: absolute;
   right:0;
 }
