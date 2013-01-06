@@ -71,7 +71,7 @@ h3.project-title{
 }
 
 
-#wrapper,
+.wrapper,
 .navbar .container{
   width:960px;
   margin:0 auto;
@@ -110,15 +110,13 @@ h3.project-title{
 }
 
 #logo{
-  position:fixed;
-  top:35px;
   text-align: center;
-  margin-left:-10px;
+  margin:35px auto 0;
 }
 
 
 @media (max-width: 767px) {
-  #wrapper,
+  .wrapper,
   .navbar .container{
     width:90%;
   }
@@ -128,14 +126,14 @@ h3.project-title{
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
-  #wrapper,
+  .wrapper,
   .navbar .container{
     width:740px;
   }
 }
 
 @media (min-width: 1200px) {
-  #wrapper,
+  .wrapper,
   .navbar .container{
     width:1139px;
   }
