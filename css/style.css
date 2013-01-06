@@ -184,6 +184,10 @@ h3.project-title{
   line-height:35px;
 }
 
+#fixed-logo-wrapper{
+  text-align: center;
+}
+
 
 @media (max-width: 767px) {
   .wrapper,
