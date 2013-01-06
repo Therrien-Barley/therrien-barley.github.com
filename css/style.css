@@ -31,6 +31,17 @@ h3.section-heading{
   text-align: left;
 }
 
+.contact-profile .contact-profile-image{
+  width:30%;
+  margin-right:5%;
+  float:left;
+}
+
+.contact-profile .contact-profile-caption{
+  width:65%;
+  float:left;
+}
+
 .projects-project{
   overflow: hidden;
 }
