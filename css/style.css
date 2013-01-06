@@ -28,6 +28,10 @@ h3.section-heading{
   margin-top:160px;
 }
 
+h3.project-title{
+  margin-top:30px;
+}
+
 .contact-profile h3{
   text-align: left;
 }
@@ -91,6 +95,11 @@ h3.section-heading{
 
 .navbar .nav-button:first-child{
   margin-left:0 !important;
+}
+
+.underlay{
+  position:relative;
+  z-index: -100;
 }
 
 
