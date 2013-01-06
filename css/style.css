@@ -201,13 +201,13 @@ h3.section-heading{
   }
   .footer{
     height:auto;
+    padding:20px 30px;
   }
   h3.section-heading{
     width:100%;
     margin-left:-2px;
   }
-  .section,
-  .footer{
+  .section{
     margin-top:100px;
   }
   .navbar{
