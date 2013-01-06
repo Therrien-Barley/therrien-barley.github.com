@@ -90,7 +90,7 @@ h3.section-heading{
 }
 
 .navbar .nav-button:first-child{
-  margin-left:0;
+  margin-left:0 !important;
 }
 
 
