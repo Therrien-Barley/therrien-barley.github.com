@@ -39,3 +39,7 @@ h3{
 .projects-project .project-mono-image{
   max-height: 
 }
+
+#wrapper{
+  width:960px;
+}
