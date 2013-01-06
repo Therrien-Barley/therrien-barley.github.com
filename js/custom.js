@@ -1,6 +1,12 @@
 jQuery(document).ready(function() {
 
 
+	if(window.innerWidth < 768){
+		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
+		$('#fixed-footer').removeAttr('data-spy');
+	}
+	/*
+		
 	function affixOnResize(){
 		if(window.innerWidth < 768){
 			$('#fixed-logo-container').removeClass('affix');
@@ -10,12 +16,8 @@ jQuery(document).ready(function() {
 			$('#fixed-footer').addClass('affix').attr('data-spy','affix');
 		}
 	}
-
-	if(window.innerWidth < 768){
-		$('#fixed-logo-container').removeClass('affix').removeAttr('data-spy');
-		$('#fixed-footer').removeAttr('data-spy');
-	}
 	$('body').resize(affixOnResize);
+	*/
 
 	/*
 	$('#gf').text('GitHub Followers');
