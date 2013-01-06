@@ -4,7 +4,7 @@ title: "Therrien–Barley"
 ---
 {% for post in site.posts offset: 0 limit: 10 %}
    
-    <div class="row">
+    
       <div class="span6 projects-project">
         <a href="{{ post.url }}" >
             <img class="project-image" border="0" src="/img/projects/mono/{{ post.monoimage }}" alt="">
@@ -12,6 +12,6 @@ title: "Therrien–Barley"
             <div class="project-summary">{{ post.summary }}</div>
         </a>
       </div><!-- /.span6 -->
-    </div><!-- /.row -->  
+
 
 {% endfor %}
