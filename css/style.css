@@ -199,8 +199,6 @@ h3.section-heading{
   text-align: center;
 }
 
-#logo{
-}
 
 @media (max-width: 767px) {
   .wrapper,
@@ -246,6 +244,9 @@ h3.section-heading{
   }
   h3.section-heading{
     width:1135px;
+  }
+  #logo{
+    margin-left:23px;
   }
 }
 
