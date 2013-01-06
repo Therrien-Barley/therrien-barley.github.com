@@ -8,10 +8,8 @@ jQuery(document).ready(function() {
 		//vertically center jumbotron
 		var jh = $('.jumbotron').height();
 		var wh = window.innerHeight;
-		var m = (wh-jh)/2;
-
-		console.log('jh: '+ jh + ' wh: '+ wh+ 'm: '+ m);
-
+		var hh = $('#header-nav').height();
+		var m = (wh-hh-jh)/2;
 		$('.jumbotron').css('marginTop', m).css('marginBottom', m);
 	}
 
