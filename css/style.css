@@ -23,9 +23,7 @@ h3.section-heading{
   border:2px solid white;
   text-align: center;
   line-height:33px;
-
   margin-bottom:40px;
-  margin-top:160px;
 }
 
 h3.project-title{
@@ -102,13 +100,19 @@ h3.project-title{
   z-index: -100;
 }
 
+.section{
+  position: relative;
+  background-color: blue;
+  margin-top:160px;
+}
+
 
 @media (max-width: 767px) {
   #wrapper,
   .navbar .container{
     width:90%;
   }
-  h3.section-heading{
+  .section{
     margin-top:80px;
   }
 }
