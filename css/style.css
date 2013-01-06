@@ -193,11 +193,8 @@ h3.project-title{
   .section{
     margin-top:80px;
   }
-  .navbar .nav-button{
-    width:110px;
-  }
-  .nav-button-group{
-    width:275px;
+  .navbar{
+    display:none;
   }
 }
 
