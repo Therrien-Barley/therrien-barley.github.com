@@ -239,8 +239,8 @@ h3.section-heading{
   .nav-button-group{
     width:250px;
   }
-  #logo{
-    width:170px;
+  #logo img{
+    width:100%;
     height:auto;
   }
 }
