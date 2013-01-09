@@ -31,6 +31,8 @@ jQuery(document).ready(function() {
 				$(this).css('width', '924px');
 				$(this).css('height', '362px');
 				console.log('window.innerWidth > 768');
+			}else{
+				$(this).css('height', '200px');
 			}
 		});
 	}
