@@ -291,6 +291,10 @@ h3.section-heading{
   margin-right:0 !important;
 }
 
+.projects-project{
+  margin-top:50px;
+}
+
 .projects-project.odd{
   margin-left: 0 !important;
 }
