@@ -293,6 +293,7 @@ h3.section-heading{
 /* PROJECT PAGE */
 .project-page{
   margin-top:60px;
+  background-color:blue;
 }
 
 .project-page h2{
