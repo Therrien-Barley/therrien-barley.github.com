@@ -282,3 +282,12 @@ h3.section-heading{
   margin-right:0 !important;
 }
 
+
+/* PROJECT PAGE */
+.project-page{
+  margin-top:60px;
+}
+
+.project-page h2{
+  text-align:center;
+}
