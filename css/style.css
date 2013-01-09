@@ -299,6 +299,10 @@ h3.section-heading{
   text-align:center;
 }
 
+.project-page .project-header{
+  margin-bottom:50px;
+}
+
 .project-page .project-links{
   text-align: center;
   margin-bottom:17px;
