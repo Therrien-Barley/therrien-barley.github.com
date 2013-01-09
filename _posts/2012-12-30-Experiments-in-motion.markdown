@@ -51,5 +51,25 @@ slug: experiments-in-motion
 			</div>
 		</div>
 	</div><!-- /.project-gallery -->
+	<div class="container project-press standard">
+		<div class="row-fluid">
+			<div class="span8">
+				<h3>Press</h3>
+				<p>
+					<a target="_blank" href="http://www.huffingtonpost.com/betsy-isaacson/experiments-in-motion-exhibit_b_1904022.html">Experiments in Motion Encourages Architectural Fantasy, but Are You Ready for the Next Lowline?</a><br>
+					Huffington Post
+				</p>
+				<p>
+					<a target="_blank" href="http://www.theatlanticcities.com/design/2012/09/ideas-cramming-1-million-more-people-new-york-city/3242/">Ideas for Cramming 1 Million More People Into New York City</a><br>
+					Atlantic Cities
+				</p>
+				<p>
+					<a target="_blank" href="http://www.surfacemag.com/blog/design/1186-audi-and-columbia-universitys-experiments-in-motion-initiative/">Audi and Columbia University’s “Experiments in Motion” Initiative</a><br>
+					Surface Magazine
+				</p>
+				
+			</div>
+		</div>
+	</div>
 </div><!-- /.container .project-page -->
 
