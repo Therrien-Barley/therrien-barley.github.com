@@ -14,7 +14,7 @@ slug: experiments-in-motion
 
 <div class="row-fluid project-page">	
 	<div class="span9">
-	  <h2>Preface</h2>
+	  <h2>Preface {{ page.title }}</h2>
 	</div>
 </div> 
 
