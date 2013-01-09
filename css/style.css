@@ -228,7 +228,7 @@ h3.section-heading{
     margin-bottom:0;
   }
   .standard a{
-    border-bottom:1px solid;
+    border-bottom:1px solid !important;
   }
   .standard a:hover{
     border:none !important;
