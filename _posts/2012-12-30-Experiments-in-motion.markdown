@@ -31,10 +31,10 @@ slug: experiments-in-motion
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
 	<div class="row-fluid project-gallery">
-		<div class="span12 gallery-image">
+		<div class="span16 gallery-image">
 			<img src="/img/projects/eim/eim1.jpg">
 		</div>
-		<div class="span12 gallery-image">
+		<div class="span16 gallery-image">
 			<img src="/img/projects/eim/eim2.jpg">
 		</div>
 
