@@ -5,12 +5,12 @@ title: "Therrien–Barley"
 {% for post in site.posts offset: 0 limit: 10 %}
    
     
-      <div class="span8 projects-project">
+      <div class="span8 projects-project {% cycle 'odd', 'even' %}">
         <a href="{{ post.url }}" >
             <img class="project-mono-image" border="0" src="/img/projects/mono/{{ post.monoimage }}" alt="">
             <h3 class="project-title"><a class="standard" href="{{ post.url }}" >{{ post.title }}</a></h3>
             <div class="project-summary">{{ post.summary }}</div>
-            <div>{{ paginator.page }}</div>
+
         </a>
       </div><!-- /.span6 -->
 
