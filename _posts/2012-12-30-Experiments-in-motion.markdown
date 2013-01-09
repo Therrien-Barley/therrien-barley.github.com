@@ -13,18 +13,8 @@ slug: experiments-in-motion
 ---
 
 <div class="row-fluid project-page">	
-	<div class="span9">
-	  <h2>Preface {{ page.title }}</h2>
+	<div class="span8 offset4">
+	  <h2>{{ page.title }}</h2>
 	</div>
 </div> 
-
-<div class="row">	
-	<div class="span9 column">
-			<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Previous Post: {{page.previous.title}}"><i class="icon-chevron-left"></i></a> 	{% endif %}   {% if page.next.url %} 	<a href="{{page.next.url}}" title="Next Post: {{page.next.title}}"><i class="icon-chevron-right"></i></a> 	{% endif %} </p>  
-	</div>
-</div>
-
-
-<!-- Twitter -->
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
