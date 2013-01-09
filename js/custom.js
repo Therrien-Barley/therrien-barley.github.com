@@ -21,6 +21,16 @@ jQuery(document).ready(function() {
 	}
 
 
+	$('.video-container').each(function(){
+		if(window.innerWidth >= 1200){
+			$(this).css('width', '1024px');
+			$(this).css('height', '401px');
+		}else if(window.innerWidth > 768){
+			$(this).css('width', '924px');
+			$(this).css('height', '362px');
+		}
+	});
+
 
 
 	/*
