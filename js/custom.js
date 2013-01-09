@@ -20,6 +20,17 @@ jQuery(document).ready(function() {
 		$('body').css('backgroundColor','');
 	}
 
+	function projectSelectHoverOn(){
+		$(this).closest('.projects-project').find('.project-title').css('border', '2px solid');
+	}
+
+	function projectSelectHoverOff(){
+		$(this).closest('.projects-project').find('.project-title').css('border', '');
+	}
+
+
+	$('.projects-project a').bind('mouseenter', projectSelectHoverOn).bind('mouseleave', projectSelectHoverOff);
+
 
 	function resizeInit(){
 		$('.video-container').each(function(){
