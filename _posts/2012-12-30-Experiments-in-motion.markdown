@@ -33,7 +33,9 @@ slug: experiments-in-motion
 	<div class="container project-gallery">
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
-				<iframe src="http://player.vimeo.com/video/49461618?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1&amp;loop=1" width="1024" height="401" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+				<div class="video-container">
+					<iframe src="http://player.vimeo.com/video/49461618?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff&amp;autoplay=1&amp;loop=1" width="1024" height="401" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+				</div>
 			</div>
 		</div>
 
