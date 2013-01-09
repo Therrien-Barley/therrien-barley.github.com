@@ -298,3 +298,8 @@ h3.section-heading{
 .project-page h2{
   text-align:center;
 }
+
+.project-page .project-links{
+  text-align: center;
+  margin-bottom:17px;
+}

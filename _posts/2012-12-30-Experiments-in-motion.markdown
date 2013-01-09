@@ -16,7 +16,7 @@ slug: experiments-in-motion
 	<div class="row-fluid project-header">	
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
-		  <div class="project-links">
+		  <div class="project-links standard">
 		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
@@ -31,7 +31,7 @@ slug: experiments-in-motion
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
 	<div class="row-fluid project-gallery">
-		
+
 	</div><!-- /.project-gallery -->
 </div><!-- /.container .project-page -->
 
