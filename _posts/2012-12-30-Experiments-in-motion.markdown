@@ -67,7 +67,10 @@ slug: experiments-in-motion
 					<a target="_blank" href="http://www.surfacemag.com/blog/design/1186-audi-and-columbia-universitys-experiments-in-motion-initiative/">Audi and Columbia University’s “Experiments in Motion” Initiative</a><br>
 					Surface Magazine
 				</p>
-				
+				<p>
+					<a target="_blank" href="http://www.architizer.com/en_us/blog/dyn/51130/experiments-in-motion-youve-never-seen-nycs-subway-system-quite-like-this/#.UJmKAGl_X94">Experiments in Motion: You’ve Never Seen NYC’s Subway System Quite Like This</a><br>
+					Architizer
+				</p>
 			</div>
 		</div>
 	</div>
