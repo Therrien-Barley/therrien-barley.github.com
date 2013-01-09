@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Experiments in Motion
 category: Curating
 tags: tag1 tag2 tag3
