@@ -300,6 +300,17 @@ h3.section-heading{
   margin-left: 0 !important;
 }
 
+.clients .row-fluid{
+  height:85px;
+  margin-bottom:40px;
+}
+
+.clients .client-logo{
+  text-align: center;
+  vertical-align: middle;
+  margin:auto;
+}
+
 /* PROJECT PAGE */
 .project-page{
   margin-top:60px;
