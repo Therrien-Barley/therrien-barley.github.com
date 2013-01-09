@@ -38,7 +38,7 @@ jQuery(document).ready(function() {
 	}
 
 	resizeInit();
-	$(body).resize(resizeInit);
+	$(window).resize(resizeInit);
 
 
 	/*
