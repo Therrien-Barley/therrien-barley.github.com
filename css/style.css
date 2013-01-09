@@ -294,6 +294,8 @@ h3.section-heading{
 .project-page{
   margin-top:60px;
   background-color:blue;
+  position: relative;
+  z-index: 1;
 }
 
 .project-page h2{
