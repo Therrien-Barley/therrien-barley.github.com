@@ -30,14 +30,17 @@ slug: experiments-in-motion
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
-	<div class="row-fluid project-gallery">
-		<div class="span16 gallery-image">
-			<img src="/img/projects/eim/eim1.jpg">
+	<div class="container project-gallery">
+		<div class="row-fluid">
+			<div class="span16 gallery-image">
+				<img src="/img/projects/eim/eim1.jpg">
+			</div>
 		</div>
-		<div class="span16 gallery-image">
-			<img src="/img/projects/eim/eim2.jpg">
+		<div class="row-fluid">
+			<div class="span16 gallery-image">
+				<img src="/img/projects/eim/eim2.jpg">
+			</div>
 		</div>
-
 	</div><!-- /.project-gallery -->
 </div><!-- /.container .project-page -->
 
