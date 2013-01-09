@@ -21,11 +21,11 @@ jQuery(document).ready(function() {
 	}
 
 	function projectSelectHoverOn(){
-		$(this).closest('.projects-project').find('.project-title').css('border', '2px solid').css('marginBottom', '16px');
+		$(this).closest('.projects-project').find('.project-title').css('border', '2px solid').css('marginBottom', '18px').css('marginTop', '28px');
 	}
 
 	function projectSelectHoverOff(){
-		$(this).closest('.projects-project').find('.project-title').css('border', '').css('marginBottom', '');
+		$(this).closest('.projects-project').find('.project-title').css('border', '').css('marginBottom', '').css('marginTop', '');
 	}
 
 
