@@ -32,7 +32,7 @@ slug: color-story
 	<div class="container project-gallery">
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
-				<img src="/img/projects/story/story-logo.png">
+				<img src="/img/projects/story/story_logo.png">
 			</div>
 		</div>
 		<div class="row-fluid">
