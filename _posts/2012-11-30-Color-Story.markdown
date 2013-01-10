@@ -32,21 +32,22 @@ slug: color-story
 	<div class="container project-gallery">
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
-				<div class="video-container">
-					<iframe src="http://player.vimeo.com/video/49461618?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" width="100%" height="100%" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
-				</div>
-			</div>
-		</div>
-
-		
-		<div class="row-fluid">
-			<div class="span16 gallery-image">
-				<img src="/img/projects/eim/eim1.jpg">
+				<img src="/img/projects/story/story-logo.jpg">
 			</div>
 		</div>
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
-				<img src="/img/projects/eim/eim2.jpg">
+				<img src="/img/projects/story/story0.jpg">
+			</div>
+		</div>
+		<div class="row-fluid">
+			<div class="span16 gallery-image">
+				<img src="/img/projects/story/story1.jpg">
+			</div>
+		</div>
+		<div class="row-fluid">
+			<div class="span16 gallery-image">
+				<img src="/img/projects/story/story2.jpg">
 			</div>
 		</div>
 	</div><!-- /.project-gallery -->
