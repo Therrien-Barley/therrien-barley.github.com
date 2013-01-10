@@ -7,7 +7,7 @@ year: 2012
 month: 11
 day: 30
 published: true
-summary: Five architectural firms were invited to develop new visions for the future of urban life using Manhattan as their muse and testing ground. In partnership with the New Museum, the exhibition took the form of a massive scale model of Manhattan which presented the five future scenarios.
+summary: Retail design for STORY - a 2000 square foot store located in Manhattan. Founded by Rachel Schectman, it is a retail space that with the mind of a magazine, changes like a gallery and sells things like a store.  Every month, STORY is re-designed around a different story-based theme.
 monoimage: story_blue.png
 slug: color-story
 ---
@@ -20,13 +20,12 @@ slug: color-story
 		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
-		  	<p>Five architectural firms were invited to develop new visions for the future of urban life using Manhattan as their muse and testing ground. In partnership with the New Museum, the exhibition took the form of a massive scale model of Manhattan which presented the five future scenarios.</p>
-		  	<p>As part of the Audi Urban Future Initiative the project took place within the scope of the Festival of Ideas for the New City, an event held by the New Museum in New York from 4 to 8 May. Over the course of the exhibition, the firms worked both individually and collectively to develop new ideas and future visions of mobility which were presented in a panel discussion. Visitors to the gallery were digitally inserted into the architects' renderings of the future that were then posted to Facebook as part of the digital presence of the exhibition.</p>
+		  	<p>Retail design for STORY - a 2000 square foot store located in Manhattan. Founded by Rachel Schectman, it is a retail space that with the mind of a magazine, changes like a gallery and sells things like a store.  Every month, STORY is re-designed around a different story-based theme.</p>
+		  	<p>Working with Benjamin Moore’s latest Color Stories collection the design wraps the interior of the store with bold bands of color that organize merchandise into a narrative rainbow of products. The pop-up store was open for March 22 – May 22,  Color Story sold more than 1000 products around color.  The eight week long retail experience presents must-haves from trailblazing online shopping destinations such as BaubleBar, CHROMATICgallerie, StyleMint and many others. The assortment of items for Women, Men, Kids and Home are presented amidst walls covered in vibrant and inviting spectrum of colors.</p>
 		  </div><!-- /.project-description -->
 		  <div class="project-addendum">
-		  	<p>Clients: Audi</p>
-			<p>Partners: Stylepark, Architizer, New Museum</p>
-			<p>Architects: Leong Leong, Matter Practice, Abruzzo Bodziak, TheVeryMany, labDora</p>
+		  	<p>Clients: Story, Benjamin Moore</p>
+			<p>Architects: Ben Porto</p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
@@ -51,5 +50,20 @@ slug: color-story
 			</div>
 		</div>
 	</div><!-- /.project-gallery -->
+	<div class="container project-press standard">
+		<div class="row-fluid">
+			<div class="span8">
+				<h3>Press</h3>
+				<p>
+					<a target="_blank" href="http://ny.racked.com/archives/2012/04/13/shop_chromaticgalleries_colorful_shoes_at_the_story_popup.php">Shop CHROMATICgallerie’s Colorful Shoes at Story</a><br>
+					Racked
+				</p>
+				<p>
+					<a target="_blank" href="http://news.stylecaster.com/story-brings-kind-shopping-experience/">The Olsen’s Stylemint Opens Up Shop in a Rainbow-Exploded Retail Gallery</a><br>
+					Stylecaster
+				</p>
+			</div>
+		</div>
+	</div>
 </div><!-- /.container .project-page -->
 
