@@ -3627,6 +3627,7 @@ button.close {
     width: 12px;
   }
 }
+/*
 @media (min-width: 1200px) {
   .row {
     margin-left: -25px;
@@ -4036,6 +4037,7 @@ button.close {
     margin-left: 0;
   }
 }
+*/
 @media (max-width: 979px) {
   body {
     padding-top: 0;

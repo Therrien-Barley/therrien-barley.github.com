@@ -304,6 +304,7 @@ h3.section-heading{
   }
 }
 
+/*
 @media (min-width: 1200px) {
   .wrapper,
   #fixed-footer{
@@ -316,7 +317,7 @@ h3.section-heading{
     margin-left:23px;
   }
 }
-
+*/
 
 
 #fixed-header-left .nav-button:first-child{
