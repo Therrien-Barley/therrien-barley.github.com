@@ -34,8 +34,8 @@ jQuery(document).ready(function() {
 	function resizeInit(){
 		$('.video-container').each(function(){
 			if(window.innerWidth >= 1200){
-				$(this).css('width', '1024px');
-				$(this).css('height', '401px');
+				$(this).css('width', '1031px');
+				$(this).css('height', '404px');
 				console.log('window.innerWidth >= 1200');
 			}else if(window.innerWidth > 768){
 				$(this).css('width', '924px');
