@@ -54,12 +54,6 @@ slug: experiments-in-motion
 			</div>
 		</div>
 
-		
-		<div class="row-fluid">
-			<div class="span16 gallery-image">
-				<img src="/img/projects/eim/eim1.jpg">
-			</div>
-		</div>
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
 				<img src="/img/projects/eim/eim2.jpg">
