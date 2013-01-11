@@ -63,7 +63,7 @@ slug: experiments-in-motion
 	<div class="container project-press standard">
 		<div class="row-fluid">
 			<div class="span8">
-				<h3>Press</h3>
+				<h3>Selected Press</h3>
 				<p>
 					<a target="_blank" href="http://www.huffingtonpost.com/betsy-isaacson/experiments-in-motion-exhibit_b_1904022.html">Experiments in Motion Encourages Architectural Fantasy, but Are You Ready for the Next Lowline?</a><br>
 					Huffington Post
