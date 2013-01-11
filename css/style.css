@@ -238,6 +238,10 @@ h3.section-heading{
   margin-bottom:150px;
 }
 
+.profile-content{
+  margin-bottom:30px;
+}
+
 @media (max-width: 767px) {
   .wrapper{
     width:90%;
