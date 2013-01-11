@@ -17,7 +17,7 @@ slug: project-new-york
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
 		  <div class="project-links standard">
-		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
+		  	<a class="inline" href="http://audi-urban-future-initiative.com/en/award/award-2010/partner-new-york-2011/project-new-york-architizer.html" target="_blank">Audi Urban Future Initiative Link</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
 		  	<p>Five architectural firms were invited to develop new visions for the future of urban life using Manhattan as their muse and testing ground. In partnership with the New Museum, the exhibition took the form of a massive scale model of Manhattan which presented the five future scenarios.</p>
