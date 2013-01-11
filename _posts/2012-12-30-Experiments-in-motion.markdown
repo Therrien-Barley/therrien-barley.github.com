@@ -40,17 +40,17 @@ slug: experiments-in-motion
 		</div>
 
 		<div class="row-fluid">
-			<div class="span16 gallery-image">
-				<img src="/img/projects/eim/eim3.png">
-			</div>
-		</div>
-
-		<div class="row-fluid">
 			<div class="span8 gallery-image">
 				<img src="/img/projects/eim/eimV1.jpg">
 			</div>
 			<div class="span8 gallery-image">
 				<img src="/img/projects/eim/eimV2.jpg">
+			</div>
+		</div>
+
+		<div class="row-fluid">
+			<div class="span16 gallery-image">
+				<img src="/img/projects/eim/eim3.png">
 			</div>
 		</div>
 
