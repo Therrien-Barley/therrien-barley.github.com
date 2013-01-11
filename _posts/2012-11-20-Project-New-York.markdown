@@ -39,10 +39,10 @@ slug: project-new-york
 
 		<div class="row-fluid">
 			<div class="span8 gallery-image">
-				<img src="/img/projects/pny/pny2.jpg">
+				<img src="/img/projects/pny/pny2.png">
 			</div>
 			<div class="span8 gallery-image">
-				<img src="/img/projects/pny/pny3.jpg">
+				<img src="/img/projects/pny/pny3.png">
 			</div>
 		</div>
 
@@ -54,10 +54,10 @@ slug: project-new-york
 
 		<div class="row-fluid">
 			<div class="span8 gallery-image">
-				<img src="/img/projects/pny/pny5.jpg">
+				<img src="/img/projects/pny/pny5.png">
 			</div>
 			<div class="span8 gallery-image">
-				<img src="/img/projects/pny/pny6.jpg">
+				<img src="/img/projects/pny/pny6.png">
 			</div>
 		</div>
 	</div><!-- /.project-gallery -->
