@@ -33,7 +33,7 @@ slug: project-new-york
 	<div class="container project-gallery">
 		<div class="row-fluid">
 			<div class="span16 gallery-image">
-				<img src="/img/projects/pny/pny1.png">
+				<img src="/img/projects/pny/pny1sm.png">
 			</div>
 		</div>
 
