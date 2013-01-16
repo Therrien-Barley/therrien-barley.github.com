@@ -242,6 +242,10 @@ h3.section-heading{
   margin-bottom:30px;
 }
 
+.content{
+  text-align: center;
+}
+
 @media (max-width: 767px) {
   .wrapper{
     width:90%;
