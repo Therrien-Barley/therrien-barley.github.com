@@ -253,6 +253,7 @@ h3.section-heading{
 
 .project-page a:hover{
   border:none !important;
+  text-decoration: none !important;
 }
 
 @media (max-width: 767px) {
