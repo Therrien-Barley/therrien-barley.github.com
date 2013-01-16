@@ -26,7 +26,7 @@ slug: project-new-york
 		  <div class="project-addendum">
 		  	<p>Clients: Audi</p>
 			<p>Partners: <a href="http://www.stylepark.com/" target="_blank">Stylepark</a>, <a href="http://www.architizer.com/" target="_blank">Architizer</a>, <a href="http://www.newmuseum.org/" target="_blank">New Museum</a></p>
-			<p>Architects: Leong Leong, Matter Practice, Abruzzo Bodziak, TheVeryMany, labDora</p>
+			<p>Architects: <a href="http://leong-leong.com/" target="_blank">Leong Leong</a>, <a href="http://www.matterpractice.net/" target="_blank">Matter Practice</a>, <a href="http://www.abruzzo-bodziak.com/" target="_blank">Abruzzo Bodziak</a>, <a href="http://theverymany.com/" target="_blank">TheVeryMany</a>, <a href="http://petermacapia.com/" target="_blank">labDORA</a></p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
