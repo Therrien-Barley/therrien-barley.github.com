@@ -16,15 +16,12 @@ slug: color-story
 	<div class="row-fluid project-header">	
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
-		  <div class="project-links standard">
-		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
-		  </div><!-- /.project-links -->
 		  <div class="project-description">
 		  	<p>Retail design for STORY - a 2000 square foot store located in Manhattan. Founded by Rachel Schectman, it is a retail space that with the mind of a magazine, changes like a gallery and sells things like a store.  Every month, STORY is re-designed around a different story-based theme.</p>
 		  	<p>Working with Benjamin Moore’s latest Color Stories collection the design wraps the interior of the store with bold bands of color that organize merchandise into a narrative rainbow of products. The pop-up store was open for March 22 – May 22,  Color Story sold more than 1000 products around color.  The eight week long retail experience presents must-haves from trailblazing online shopping destinations such as BaubleBar, CHROMATICgallerie, StyleMint and many others. The assortment of items for Women, Men, Kids and Home are presented amidst walls covered in vibrant and inviting spectrum of colors.</p>
 		  </div><!-- /.project-description -->
 		  <div class="project-addendum">
-		  	<p>Clients: Story, Benjamin Moore</p>
+		  	<p>Clients: <a href="http://thisisstory.com/" target="_blank">Story</a>, Benjamin Moore</p>
 			<p>Architects: Ben Porto</p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
