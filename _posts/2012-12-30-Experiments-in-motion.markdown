@@ -17,7 +17,7 @@ slug: experiments-in-motion
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
 		  <div class="project-links standard">
-		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
+		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="https://www.facebook.com/experimentsinmotion" target="_blank">Facebook</a>, <a class="inline" href="http://pinterest.com/experimotion/" target="_blank">Pinterest</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
 		  	<p>Experiments in Motion is a research initiative partnering Audi of America and Columbia University’s Graduate School of Architecture, Planning and Preservation, for a research think tank, architectural design studios, and exhibition - challenging both partners to rethink motion, think differently about mobility, and work together to imagine future cities.</p>
@@ -25,7 +25,7 @@ slug: experiments-in-motion
 		  </div><!-- /.project-description -->
 		  <div class="project-addendum">
 		  	<p>Clients: Audi, Columbia University</p>
-			<p>Partners: Stylepark, Lowline, Nuite Blanche, Studio Kinch, Flatcut</p>
+			<p>Partners: <a href="http://www.stylepark.com/" target="_blank">Stylepark</a>, <a href="http://thelowline.org/" target="_blank">Lowline</a>, <a href="http://bringtolightnyc.org/" target="_blank">Nuite Blanche</a>, <a href="http://www.studio-kinch.com/" target="_blank">Studio Kinch</a>, <a href="http://www.flatcut.com/" target="_blank">Flatcut</a>, <a href="http://projectprojects.com/" target="_blank">Project Projects</a>, <a href="http://www.swoonnyc.com/" target="_blank">Swoon NYC</a></p>
 			<p>Design Team: Kelsey Lents, George Dolidze, Mengyi Fan</p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
