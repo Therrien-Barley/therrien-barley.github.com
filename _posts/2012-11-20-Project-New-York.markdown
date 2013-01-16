@@ -17,7 +17,7 @@ slug: project-new-york
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
 		  <div class="project-links standard">
-		  	<a class="inline" href="http://audi-urban-future-initiative.com/en/award/award-2010/partner-new-york-2011/project-new-york-architizer.html" target="_blank">Audi Urban Future Initiative Link</a>
+		  	<a class="inline" href="http://audi-urban-future-initiative.com/en/award/award-2010/partner-new-york-2011/project-new-york-architizer.html" target="_blank">Audi Urban Future Initiative</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
 		  	<p>Five architectural firms were invited to develop new visions for the future of urban life using Manhattan as their muse and testing ground. In partnership with the New Museum, the exhibition took the form of a massive scale model of Manhattan which presented the five future scenarios.</p>
@@ -25,7 +25,7 @@ slug: project-new-york
 		  </div><!-- /.project-description -->
 		  <div class="project-addendum">
 		  	<p>Clients: Audi</p>
-			<p>Partners: Stylepark, Architizer, New Museum</p>
+			<p>Partners: <a href="http://www.stylepark.com/" target="_blank">Stylepark</a>, <a href="http://www.architizer.com/" target="_blank">Architizer</a>, <a href="http://www.newmuseum.org/" target="_blank">New Museum</a></p>
 			<p>Architects: Leong Leong, Matter Practice, Abruzzo Bodziak, TheVeryMany, labDora</p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->

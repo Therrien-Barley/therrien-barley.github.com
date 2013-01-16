@@ -17,7 +17,7 @@ slug: yap
 		<div class="span8 offset4">
 		  <h2>{{ page.title }}</h2>
 		  <div class="project-links standard">
-		  	<a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Website</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Facebook</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Twitter</a>, <a class="inline" href="http://www.experimentsinmotion.com" target="_blank">Pinterest</a>
+		  	<a href="http://www.moma.org/interactives/exhibitions/yap/" target="_blank">Interview Archive</a>
 		  </div><!-- /.project-links -->
 		  <div class="project-description">
 		  	<p>The exhibition celebrated the legacy of architectural invention fueled by the exuberance of generations of young architects who took part in P.S.1  Contemporary Art Center and The Museum of Modern Art’s Young Architects Program, one of the most acclaimed architectural arenas for emerging talent of the last decade. </p>
@@ -25,7 +25,8 @@ slug: yap
 		  </div><!-- /.project-description -->
 		  <div class="project-addendum">
 		  	<p>Curatorial advice from Klaus Biesenbach, Chief Curator, Department of Media and Performance Art, The Museum of Modern Art and Chief Curatorial Advisor, P.S.1 Contemporary Art Center and Barry Bergdoll, The Philip Johnson Chief Curator of Architecture and Design, The Museum of Modern Art.</p>
-		  	<p>Special thanks to SOHO Reprographics, the Arts Initiative at Columbia University, Daniel Payne, and Luke Barley.</p>
+		  	<p>Special thanks to <a href="http://www.sohorepro.com/" target="_blank">SOHO Reprographics</a>, Daniel Payne, and Luke Barley.</p>
+		  	<p>Supported by the <a href="http://www.cuarts.com/" target="_blank">Arts Initiative</a> at Columbia University and Apple Computer.</p>
 		  </div><!-- /.project-addendum -->
 		</div><!-- /.span8 -->
 	</div><!-- /.project-header -->
