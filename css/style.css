@@ -247,6 +247,14 @@ h3.section-heading{
   margin-bottom:30px;
 }
 
+.project-page a{
+  border-bottom:1px solid !important;
+}
+
+.project-page a:hover{
+  border:none !important;
+}
+
 @media (max-width: 767px) {
   .wrapper{
     width:90%;
