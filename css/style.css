@@ -244,6 +244,7 @@ h3.section-heading{
 
 .contact-content{
   text-align: center;
+  margin-bottom:30px;
 }
 
 @media (max-width: 767px) {
